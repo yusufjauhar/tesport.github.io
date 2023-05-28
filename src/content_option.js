@@ -78,6 +78,7 @@ const services = [
 const contactConfig = {
   YOUR_EMAIL: "yusufjojo244@gmail.com",
   YOUR_FONE: `+62 878 3156 2908`,
+  YOUR_ADDRESS: `Jl. serayu No. 7, Banyumas, Banyumas, Jawa Tengah, 53192, Indonesia`,
   description:
     "Terima kasih telah mengunjungi situs kami! Jika Anda memiliki pertanyaan, komentar, atau ingin berdiskusi lebih lanjut tentang layanan kami, jangan ragu untuk menghubungi kami. Kami senang mendengar dari Anda dan siap membantu. ",
   // creat an emailjs.com account
