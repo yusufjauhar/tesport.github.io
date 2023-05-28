@@ -90,8 +90,8 @@ const contactConfig = {
 
 const socialprofils = {
   github: `https://github.com/yusufjauhar`,
-  facebook: "https://facebook.com",
-  instagram: "https://instagram.com/jauhar.yusuf",
+  facebook: "https://www.facebook.com/yusuf.jauhar.58",
+  instagram: "https://instagram.com/jauhar.yusuf?igshid=ZDc4ODBmNjlmNQ==",
   //   linkedin: "https://linkedin.com",
   //   twitter: "https://twitter.com",
 };
